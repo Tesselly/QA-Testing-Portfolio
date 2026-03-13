@@ -1,0 +1,27 @@
+{
+  "info": {
+    "_postman_id": "0842f764-c698-4c4a-885b-6559c7e5c09b",
+    "name": "Tess QA Portfolio - API Testing (ReqRes User API)",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "48452308",
+    "_collection_link": "https://go.postman.co/collection/48452308-0842f764-c698-4c4a-885b-6559c7e5c09b?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "GET All Users – Positive Test",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "GET Invalid User – Negative Test",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
