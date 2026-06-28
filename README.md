@@ -1,82 +1,59 @@
-# QA Testing Portfolio – Tesselly
+# 👋 Welcome to My QA Testing Portfolio
 
-Welcome to my QA testing portfolio.
+Hi, I'm Elohor Eferakeya, an ISTQB CTFL-certified QA Tester with practical experience in User Acceptance Testing (UAT), manual testing and business systems validation.
 
-This repository contains examples of testing work created while learning and practicing software quality assurance.
+My interest in software testing began while supporting User Acceptance Testing (UAT) for business-critical housing systems at Derby Homes. Since then, I have continued developing my QA skills through commercial UAT experience, Agile project work and API testing.
 
-My goal is to demonstrate how I approach identifying issues, documenting bugs, designing test cases, and validating system behaviour.
-
----
-
-## Projects
-
-### 1. UAT Bug Investigation – Housing Repairs Management System
-
-A workflow issue discovered during User Acceptance Testing of a housing repairs management system.
-
-This investigation includes:
-- Bug summary
-- Steps to reproduce
-- Expected vs actual results
-- Impact analysis
-
-File:
-housing-repairs-uat-bug-report.md
+This repository showcases public QA projects that demonstrate my practical testing skills and approach to software quality.
 
 ---
 
-### 2. API Testing Project – Users API
+## 📂 Projects
 
-API testing performed using Postman.
+### API Testing – ReqRes API (Postman)
 
-Tests implemented include:
-- Status code validation
-- Response time validation
-- Data structure validation
-- Content-type validation
-- Negative testing for invalid user ID
+REST API testing using Postman against public APIs.
 
-Files:
-- test-cases/API-Test-Cases.md
-- postman-collection/
+**Skills demonstrated**
+
+- API Testing
+- Positive & Negative Testing
+- Status Code Validation
+- JSON Response Validation
 
 ---
 
-### 3. Web Application Testing – TodoMVC
+### TodoMVC – Manual Testing
 
-Manual testing of a web-based task management application.
+Manual and exploratory testing performed on the public TodoMVC application.
 
-Test scenarios include:
-- Adding tasks
-- Completing tasks
-- Deleting tasks
-- Filtering tasks
+**Skills demonstrated**
 
-Files:
-- web-testing/todo-mvc-test-cases.md
+- Manual Testing
+- Functional Testing
+- Exploratory Testing
+- Usability Testing
 
 ---
 
-## Tools Used
+## 🛠️ Tools
 
--## Tools Used
+- Jira
+- TestRail
+- Postman
+- JMeter (Basic)
+- Claude AI
+- Cursor AI
+- ChatGPT
 
-- Postman – API testing and response validation  
-- Jira – defect tracking and issue management  
-- TestRail – test case management and execution  
-- GitHub – version control and portfolio documentation
+---
 
-## About Me
+## 📫 Connect With Me
 
-I am an ISTQB-certified QA tester developing practical experience in software quality assurance.
+**LinkedIn**
 
-My interest in QA began while participating in User Acceptance Testing (UAT) of an internal housing repairs management system, where I identified a workflow issue that later became the first case study in this portfolio.
+www.linkedin.com/in/tesselly
 
-Since then, I have been building hands-on experience in:
-- Manual testing
-- API testing using Postman
-- Test case design
-- Bug reporting and documentation
-- Understanding system workflows from a user perspective
+**Email**
 
-This portfolio showcases examples of my testing work as I continue developing my skills and growing within the QA profession.
+eferakeyaelohor@gmail.com
